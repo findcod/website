@@ -1,14 +1,3 @@
-<!DOCTYPE html>
-
-<html lang="zh-CN">
-<body>
-
-<div class="nav"></div>
-
-<div class="content scontent" id="content">
-
-	<div class="sidebar" id="sidebar" style="display:none">
-
 ### 导航
 
 *   [前端圈子](#J1)
@@ -20,8 +9,6 @@
 *   [多终端](#J7)
 *   [综合资源库](#J8)
 *   [懂点设计和交互](#J9)
-
-	</div>
 
 	<div class="main">
 
