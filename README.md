@@ -1,39 +1,3 @@
-<!DOCTYPE html>
-
-<html lang="zh-CN">
-
-<head>
-
-    <meta charset="utf-8">
-
-    <title>网址导航</title>
-
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-    <meta name="description" content="">
-
-	<meta name="Keywords" content="" />
-
-    <link href="css/common.css" rel="stylesheet">
-
-</head>
-
-<body>
-
-<!--[if lte IE 7]>
-
-<div style=" padding:2px; text-align:center; background-color:#f8d97c;border:1px solid #e8b929;">您正在使用老掉牙的低版本IE浏览器，本站将不再兼容，为了获得更佳的浏览体验，建议您使用 [Firefox](http://www.mozillaonline.com/) / [Chrome](http://www.google.com/chrome/?hl=zh-CN) / [Safari](http://www.apple.com.cn/safari/) / [Opera](http://www.operachina.com/) 浏览本站</div>
-
-<![endif]-->
-
-<div class="nav"></div>
-
-<div class="content scontent" id="content">
-
-	<div class="sidebar" id="sidebar" style="display:none">
-
 ### 导航
 
 *   [前端圈子](#J1)
@@ -46,15 +10,6 @@
 *   [综合资源库](#J8)
 *   [懂点设计和交互](#J9)
 
-	</div>
-
-	<div class="main">
-
-		<span id="J_btn" class="menu-button" style="display:none">Table of Contents</span>
-
-		<div class="section" id="J1">
-
-			<div class="section-inner">
 
 ### 01.前端这个圈子
 
@@ -1320,8 +1275,3 @@
 
 	</div>
 
-</div>
-<script src="js/jquery-1.10.2.min.js"></script>
-<script src="js/index.js"></script>
-</body>
-</html>
