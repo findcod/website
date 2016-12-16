@@ -206,14 +206,6 @@
 
 </dl>
 
-</div>
-
-</div>
-
-<div class="section" id="J2">
-
-<div class="section-inner">
-
 ### 02.UED团队博客
 
 <dl class="link-list">
@@ -356,13 +348,6 @@
 
 </dl>
 
-</div>
-
-</div>
-
-<div class="section" id="J3">
-
-<div class="section-inner">
 
 ### 03.浏览器百宝箱
 
@@ -453,14 +438,6 @@
 </dd>
 
 </dl>
-
-</div>
-
-</div>
-
-<div class="section" id="J4">
-
-<div class="section-inner">
 
 ### 04.前端工具箱
 
@@ -680,14 +657,6 @@
 
 </dl>
 
-</div>
-
-</div>
-
-<div class="section" id="J5">
-
-<div class="section-inner">
-
 ### 05.CSS/HTML
 
 <dl class="link-list">
@@ -775,14 +744,6 @@
 </dd>
 
 </dl>
-
-</div>
-
-</div>
-
-<div class="section" id="J6">
-
-<div class="section-inner">
 
 ### 06.JavaScript
 
@@ -972,14 +933,6 @@
 
 </dl>
 
-</div>
-
-</div>
-
-<div class="section" id="J7">
-
-<div class="section-inner">
-
 ### 07.多终端
 
 <dl class="link-list">
@@ -1034,13 +987,6 @@
 
 </dl>
 
-</div>
-
-</div>
-
-<div class="section" id="J8">
-
-<div class="section-inner">
 
 ### 08.综合资源库
 
@@ -1138,13 +1084,6 @@
 
 </dl>
 
-</div>
-
-</div>
-
-<div class="section" id="J9">
-
-<div class="section-inner">
 
 ### 09.懂点设计和交互
 
@@ -1267,13 +1206,3 @@
 </dd>
 
 </dl>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-</body>
-</html>
