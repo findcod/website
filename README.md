@@ -1,3 +1,14 @@
+<!DOCTYPE html>
+
+<html lang="zh-CN">
+<body>
+
+<div class="nav"></div>
+
+<div class="content scontent" id="content">
+
+	<div class="sidebar" id="sidebar" style="display:none">
+
 ### 导航
 
 *   [前端圈子](#J1)
@@ -10,6 +21,15 @@
 *   [综合资源库](#J8)
 *   [懂点设计和交互](#J9)
 
+	</div>
+
+	<div class="main">
+
+		<span id="J_btn" class="menu-button" style="display:none">Table of Contents</span>
+
+		<div class="section" id="J1">
+
+			<div class="section-inner">
 
 ### 01.前端这个圈子
 
@@ -1275,3 +1295,8 @@
 
 	</div>
 
+</div>
+<script src="js/jquery-1.10.2.min.js"></script>
+<script src="js/index.js"></script>
+</body>
+</html>
